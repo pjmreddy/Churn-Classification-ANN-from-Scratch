@@ -1,1 +1,1 @@
-# Churn-Classification-ANN-from-Scratch
+# ANN-CLassification-Churn
