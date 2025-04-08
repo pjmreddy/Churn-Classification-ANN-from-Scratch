@@ -144,7 +144,7 @@ input_data = pd.concat([input_data.reset_index(drop=True), geo_encoded_df], axis
 input_data_scaled = scaler.transform(input_data)
 
 # Add a predict button with animation
-if st.button('🔮 Predict Churn Probability', use_container_width=True):
+if st.button('Predict Churn Probability', use_container_width=True):
     with st.spinner('Analyzing customer data...'):
         # Add a small delay for effect
         time.sleep(1)
