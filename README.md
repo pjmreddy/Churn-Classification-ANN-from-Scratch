@@ -90,6 +90,6 @@ Explore the live application: [Churn Classification ANN](https://churn-classific
 
 ---
 
-### Developed with ❤️ by [Jagan Reddy](mailto:peravali810@gmail.com)
+Developed with ❤️ by [Jagan Reddy](mailto:peravali810@gmail.com).
 
 </div>
